@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Mono</Authors>
+    <PackageId>Mono.Xml.Port</PackageId>
+    <Product>Mono.Xml.Port</Product>
+    <Description>a simple port to .netstandard2.0</Description>
+    <PackageLicenseUrl>https://github.com/mono/mono/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Mono</Copyright>
+    <PackageProjectUrl>https://github.com/TetradogOther/Mono.Xml</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TetradogOther/Mono.Xml</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
